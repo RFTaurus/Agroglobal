@@ -1,0 +1,196 @@
+
+
+@media only screen and (min-device-width: 360px){
+    
+    .nav-agroglobal{
+        width: 100%;
+        margin: 0% auto;
+    }
+    
+    .nav-color{
+        background-color: #ffffff;
+    }
+
+    .center{
+        margin-left: 0vw;
+    }
+
+    .border-search{
+        color: #28a745;
+        border-color: #28a745;
+    }
+    
+    .account-list{
+        margin-left: 28vw;
+    }
+
+    .nav-icon-medium{
+        margin-left: 0%;
+    }
+
+    .kategori-text{
+        font-size: 1em;
+        width: 20%;
+    }
+}
+
+@media only screen and (min-device-width: 576px){
+    
+    .nav-agroglobal{
+        width: 100%;
+        margin: 0% auto;
+    }
+    
+    .nav-color{
+        background-color: #ffffff;
+    }
+
+    .center{
+        margin-left: 0vw;
+    }
+
+    .border-search{
+        color: #28a745;
+        border-color: #28a745;
+    }
+    
+    .account-list{
+        margin-left: 28vw;
+    }
+
+    .nav-icon-medium{
+        margin-left: 35vw;
+    }
+
+    .kategori-text{
+        font-size: 1em;
+        width: 20%;
+    }
+}
+
+@media only screen and (min-device-width: 768px){
+    
+    .nav-agroglobal{
+        width: 100%;
+        margin: 0% auto;
+    }
+    
+    .nav-color{
+        background-color: #ffffff;
+    }
+
+    .center{
+        margin-left: 0vw;
+    }
+
+    .border-search{
+        color: #28a745;
+        border-color: #28a745;
+    }
+    
+    .account-list{
+        margin-left: 28vw;
+    }
+
+    .nav-icon-medium{
+        margin-left: 40vw;
+    }
+
+    .kategori-text{
+        font-size: 1em;
+        width: 20%;
+    }
+}
+
+
+@media only screen and (min-device-width: 992px){
+    
+    .nav-agroglobal{
+        width: 100%;
+        margin: 0% auto;
+    }
+    
+    .nav-color{
+        background-color: #ffffff;
+    }
+
+    .center{
+        margin-left: 0vw;
+    }
+
+    .search-bar{
+        display: none;
+    }
+
+    .border-search{
+        color: #28a745;
+        border-color: #28a745;
+    }
+    
+    .account-list-large{
+        margin-left: 55vw;
+    }
+
+    .nav-icon-large{
+        margin-left: 0vw;
+    }
+
+    .kategori-dropdown{
+        display: hidden;
+    }
+
+    .kategori-text{
+        font-size: 1em;
+        width: 0%;
+    }
+}
+
+
+@media only screen and (min-device-width: 1200px){
+
+    #exampleModal{
+        color: #202020;
+    }
+    
+    .nav-agroglobal{
+        width: 100%;
+        margin: 0% auto;
+    }
+    
+    .nav-color{
+        background-color: #ffffff;
+    }
+
+    .center{
+        margin-left: 7vw;
+    }
+
+    .search-bar{
+        display: block;
+    }
+
+    #search-bar-size{
+        width: 60%;
+        height: 30px;
+    }
+
+    .border-search{
+        color: #28a745;
+        border-color: #28a745;
+    }
+    
+    .account-list{
+        margin-left: 35vw;
+    }
+
+    .nav-icon-web{
+        margin-left: 0vw;
+    }
+
+    .kategori-text{
+        font-size: 1em;
+        width: 20%;
+    }
+
+}
+

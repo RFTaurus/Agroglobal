@@ -1,0 +1,503 @@
+
+@media only screen and (min-device-width: 360px){
+    .kategori-head{
+        background-color: #87f779;
+        width: 80%;
+        min-height: 10%;
+        margin: 0% auto;
+        padding: 0.005% 0%;
+    
+        margin-top: 5%;
+        margin-bottom: -2%;
+    }
+    
+    .text-kategori{
+        color: #ffffff;
+        font-weight: 500;
+        font-size: 1.5em;
+        margin-top: -2%;
+    }
+    
+    .text-jenis-kategori{
+        color: #242424;
+        margin-left: 5px;
+    }
+    
+    .row-center{
+        margin: 0% auto;
+    }
+    
+    .kategori{
+        width: 80%;
+        height: auto;
+        max-height: 100vh;
+    
+        background-color: #ffffff;
+    
+        margin: 0% auto;
+        margin-bottom: 5%;
+    
+        padding-bottom: 8%;
+        padding-top: 8%;
+    }
+    
+    .logo-best-size{
+        width: 6%;
+        height: auto;
+        margin-top: -1%;
+    }
+    
+    .logo-right{
+        width: 25%;
+        height: auto;
+        float: right;
+        margin-top: -15.5%; 
+    }
+    
+    .title-head{
+        color: #000000;
+        font-size: 2em;
+        margin-left: 1%;
+    }
+    
+    .btn-buy{
+        margin: 0% auto; 
+        color: #ffffff;
+        font-weight: bold;
+        width: 30%;    
+        background-color: #51e542;
+    }
+    
+    .btn-detail{
+        margin: 0% auto; 
+        color: #ffffff;
+        font-weight: bold;
+        width: 30%;    
+        background-color: #6e9fef;
+    }
+    
+    .card-size{
+        margin: 0% auto;
+        margin-bottom: 5%;
+    }
+    
+    .image-size{
+        margin: 0% auto;
+        size: 50%;
+    }
+    
+    .text-title{
+        color: #000000;
+        font-size: 1.5em;
+        font-weight: bold;
+    }
+    
+    .text{
+        color: #000000;
+    }
+
+    .col-extend{
+        margin-top: 10%;
+    }
+}
+
+@media only screen and (min-device-width: 576px){
+    .kategori-head{
+        background-color: #87f779;
+        width: 80%;
+        min-height: 100%;
+        margin: 0% auto;
+        padding: 0.5% 0%;
+    
+        margin-top: 7%;
+    }
+    
+    .text-kategori{
+        color: #ffffff;
+        font-weight: 500;
+        font-size: 2em;
+    }
+    
+    .text-jenis-kategori{
+        color: #242424;
+        margin-left: 5px;
+    }
+    
+    .row-center{
+        margin: 0% auto;
+    }
+    
+    .kategori{
+        width: 80%;
+        height: auto;
+        max-height: 100vh;
+    
+        background-color: #ffffff;
+    
+        margin: 0% auto;
+        margin-bottom: 5%;
+    
+        padding-bottom: 3%;
+        padding-top: 1%;
+    }
+    
+    .logo-best-size{
+        width: 6%;
+        height: auto;
+        margin-top: -1%;
+    }
+    
+    .logo-right{
+        width: 25%;
+        height: auto;
+        float: right;
+        margin-top: -15.5%; 
+    }
+    
+    .title-head{
+        color: #000000;
+        font-size: 2em;
+        margin-left: 1%;
+    }
+    
+    .btn-buy{
+        margin: 0% auto; 
+        color: #ffffff;
+        font-weight: bold;
+        width: 30%;    
+        background-color: #51e542;
+    }
+    
+    .btn-detail{
+        margin: 0% auto; 
+        color: #ffffff;
+        font-weight: bold;
+        width: 30%;    
+        background-color: #6e9fef;
+    }
+    
+    .card-size{
+        margin: 0% auto;
+        margin-bottom: 5%;
+    }
+    
+    .image-size{
+        margin: 0% auto;
+        size: 50%;
+    }
+    
+    .text-title{
+        color: #000000;
+        font-size: 1.5em;
+        font-weight: bold;
+    }
+    
+    .text{
+        color: #000000;
+    }
+
+    .col-normal{
+        margin-top: 0%;
+    }
+}
+
+@media only screen and (min-device-width: 768px){
+    .kategori-head{
+        background-color: #87f779;
+        width: 80%;
+        min-height: 100%;
+        margin: 0% auto;
+        padding: 0.5% 0%;
+    
+        margin-top: 7%;
+    }
+    
+    .text-kategori{
+        color: #ffffff;
+        font-weight: 500;
+        font-size: 2em;
+    }
+    
+    .text-jenis-kategori{
+        color: #242424;
+        margin-left: 5px;
+    }
+    
+    .row-center{
+        margin: 0% auto;
+    }
+    
+    .kategori{
+        width: 80%;
+        height: auto;
+        max-height: 100vh;
+    
+        background-color: #ffffff;
+    
+        margin: 0% auto;
+        margin-bottom: 5%;
+    
+        padding-bottom: 3%;
+        padding-top: 1%;
+    }
+    
+    .logo-best-size{
+        width: 6%;
+        height: auto;
+        margin-top: -1%;
+    }
+    
+    .logo-right{
+        width: 25%;
+        height: auto;
+        float: right;
+        margin-top: -15.5%; 
+    }
+    
+    .title-head{
+        color: #000000;
+        font-size: 2em;
+        margin-left: 1%;
+    }
+    
+    .btn-buy{
+        margin: 0% auto; 
+        color: #ffffff;
+        font-weight: bold;
+        width: 30%;    
+        background-color: #51e542;
+    }
+    
+    .btn-detail{
+        margin: 0% auto; 
+        color: #ffffff;
+        font-weight: bold;
+        width: 30%;    
+        background-color: #6e9fef;
+    }
+    
+    .card-size{
+        margin: 0% auto;
+        margin-bottom: 5%;
+    }
+    
+    .image-size{
+        margin: 0% auto;
+        size: 50%;
+    }
+    
+    .text-title{
+        color: #000000;
+        font-size: 1.5em;
+        font-weight: bold;
+    }
+    
+    .text{
+        color: #000000;
+    }
+
+    .col-normal{
+        margin-top: 0%;
+    }
+}
+
+
+@media only screen and (min-device-width: 992px){
+    .kategori-head{
+        background-color: #87f779;
+        width: 80%;
+        min-height: 100%;
+        margin: 0% auto;
+        padding: 0.5% 0%;
+    
+        margin-top: 7%;
+    }
+    
+    .text-kategori{
+        color: #ffffff;
+        font-weight: 500;
+        font-size: 2em;
+    }
+    
+    .text-jenis-kategori{
+        color: #242424;
+        margin-left: 5px;
+    }
+    
+    .row-center{
+        margin: 0% auto;
+    }
+    
+    .kategori{
+        width: 80%;
+        height: auto;
+        max-height: 100vh;
+    
+        background-color: #ffffff;
+    
+        margin: 0% auto;
+        margin-bottom: 5%;
+    
+        padding-bottom: 3%;
+        padding-top: 1%;
+    }
+    
+    .logo-best-size{
+        width: 6%;
+        height: auto;
+        margin-top: -1%;
+    }
+    
+    .logo-right{
+        width: 25%;
+        height: auto;
+        float: right;
+        margin-top: -15.5%; 
+    }
+    
+    .title-head{
+        color: #000000;
+        font-size: 2em;
+        margin-left: 1%;
+    }
+    
+    .btn-buy{
+        margin: 0% auto; 
+        color: #ffffff;
+        font-weight: bold;
+        width: 30%;    
+        background-color: #51e542;
+    }
+    
+    .btn-detail{
+        margin: 0% auto; 
+        color: #ffffff;
+        font-weight: bold;
+        width: 30%;    
+        background-color: #6e9fef;
+    }
+    
+    .card-size{
+        margin: 0% auto;
+        margin-bottom: 5%;
+    }
+    
+    .image-size{
+        margin: 0% auto;
+        size: 50%;
+    }
+    
+    .text-title{
+        color: #000000;
+        font-size: 1.5em;
+        font-weight: bold;
+    }
+    
+    .text{
+        color: #000000;
+    }
+
+    .col-normal{
+        margin-top: 0%;
+    }
+}
+
+@media only screen and (min-device-width: 1200px){
+    .kategori-head{
+        background-color: #87f779;
+        width: 80%;
+        min-height: 100%;
+        margin: 0% auto;
+        padding: 0.5% 0%;
+    
+        margin-top: 7%;
+    }
+    
+    .text-kategori{
+        color: #ffffff;
+        font-weight: 500;
+        font-size: 2em;
+    }
+    
+    .text-jenis-kategori{
+        color: #242424;
+        margin-left: 5px;
+    }
+    
+    .row-center{
+        margin: 0% auto;
+    }
+    
+    .kategori{
+        width: 80%;
+        height: auto;
+        max-height: 100vh;
+    
+        background-color: #ffffff;
+    
+        margin: 0% auto;
+        margin-bottom: 5%;
+    
+        padding-bottom: 3%;
+        padding-top: 1%;
+    }
+    
+    .logo-best-size{
+        width: 6%;
+        height: auto;
+        margin-top: -1%;
+    }
+    
+    .logo-right{
+        width: 25%;
+        height: auto;
+        float: right;
+        margin-top: -15.5%; 
+    }
+    
+    .title-head{
+        color: #000000;
+        font-size: 2em;
+        margin-left: 1%;
+    }
+    
+    .btn-buy{
+        margin: 0% auto; 
+        color: #ffffff;
+        font-weight: bold;
+        width: 30%;    
+        background-color: #51e542;
+    }
+    
+    .btn-detail{
+        margin: 0% auto; 
+        color: #ffffff;
+        font-weight: bold;
+        width: 30%;    
+        background-color: #6e9fef;
+    }
+    
+    .card-size{
+        margin: 0% auto;
+        margin-bottom: 5%;
+    }
+    
+    .image-size{
+        margin: 0% auto;
+        size: 50%;
+    }
+    
+    .text-title{
+        color: #000000;
+        font-size: 1.5em;
+        font-weight: bold;
+    }
+    
+    .text{
+        color: #000000;
+    }
+
+    .col-normal{
+        margin-top: 0%;
+    }
+}

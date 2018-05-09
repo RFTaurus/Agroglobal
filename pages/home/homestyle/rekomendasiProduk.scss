@@ -1,0 +1,543 @@
+
+@media only screen and (max-device-width: 365px){
+    .produk{
+        width: 80%;
+        height: auto;
+        max-height: 100vh;
+    
+        background-color: #ffffff;
+    
+        margin: 0% auto;
+        margin-bottom: 100px;
+    
+        padding-bottom: 3%;
+        padding-top: 1%;
+    }
+    
+    .logo-new-size{
+        display: none;
+        width: 5%;
+        height: auto;
+    }
+    
+    .card-xsmall{
+        width: 100%;
+    }
+
+    .title-head{
+        color: #000000;
+        font-size: 2em;
+        margin-left: 1%;
+    }
+    
+    .btn-buy{
+        font-size: 0.7em;
+        margin: 0% auto; 
+        color: #ffffff;
+        font-weight: bold;
+        width: 30%;    
+        background-color: #51e542;
+    }
+    
+    .btn-detail{
+        font-size: 0.7em;
+        margin: 0% auto; 
+        color: #ffffff;
+        font-weight: bold;
+        width: 30%;    
+        background-color: #6e9fef;
+    }
+    
+    .btn-buy-small{
+        font-size: 0.5em;
+        margin: 0% auto; 
+        color: #ffffff;
+        font-weight: bold;
+        width: 30%;    
+        background-color: #51e542;
+    }
+    
+    .btn-detail-small{
+        font-size: 0.5em;
+        margin: 0% auto;
+        color: #ffffff;
+        font-weight: bold;
+        width: 30%;    
+        background-color: #6e9fef;
+    }
+
+    .card-size{
+        margin: 0% auto;
+        margin-bottom: 5%;
+    }
+    
+    .image-size{
+        margin: 0% auto;
+        width: 100px;
+        height: auto;
+    }
+
+    .description-small{
+        display: none;
+    }
+    
+    .text-title{
+        color: #000000;
+        font-size: 1.5em;
+        font-weight: bold;
+    }
+    
+    .text{
+        color: #000000;
+    }
+    
+    .description{
+        display: block;    
+    }
+
+    .last-card{
+        display: none;
+    }
+}
+
+
+@media only screen and (min-device-width: 360px){
+    .produk{
+        width: 80%;
+        height: auto;
+        max-height: 100vh;
+    
+        background-color: #ffffff;
+    
+        margin: 0% auto;
+        margin-bottom: 100px;
+    
+        padding-bottom: 3%;
+        padding-top: 1%;
+    }
+    
+    .logo-new-size{
+        display: none;
+        width: 5%;
+        height: auto;
+    }
+    
+    .card-xsmall{
+        width: 100%;
+    }
+
+    .title-head{
+        color: #000000;
+        font-size: 2em;
+        margin-left: 1%;
+    }
+    
+    .btn-buy{
+        font-size: 0.7em;
+        margin: 0% auto; 
+        color: #ffffff;
+        font-weight: bold;
+        width: 30%;    
+        background-color: #51e542;
+    }
+    
+    .btn-detail{
+        font-size: 0.7em;
+        margin: 0% auto; 
+        color: #ffffff;
+        font-weight: bold;
+        width: 30%;    
+        background-color: #6e9fef;
+    }
+    
+    .btn-buy-small{
+        font-size: 0.5em;
+        margin: 0% auto; 
+        color: #ffffff;
+        font-weight: bold;
+        width: 30%;    
+        background-color: #51e542;
+    }
+    
+    .btn-detail-small{
+        font-size: 0.5em;
+        margin: 0% auto;
+        color: #ffffff;
+        font-weight: bold;
+        width: 30%;    
+        background-color: #6e9fef;
+    }
+
+    .card-size{
+        margin: 0% auto;
+        margin-bottom: 5%;
+    }
+    
+    .image-size{
+        margin: 0% auto;
+        width: 75px;
+        height: auto;
+    }
+
+    .description-small{
+        display: none;
+    }
+    
+    .text-title{
+        color: #000000;
+        font-size: 1.5em;
+        font-weight: bold;
+    }
+    
+    .text{
+        color: #000000;
+    }
+    
+    .description{
+        display: block;    
+    }
+
+    .last-card{
+        display: none;
+    }
+}
+
+
+@media only screen and (min-device-width: 576px){
+    .produk{
+        width: 80%;
+        height: auto;
+        max-height: 100vh;
+    
+        background-color: #ffffff;
+    
+        margin: 0% auto;
+        margin-bottom: 100px;
+    
+        padding-bottom: 3%;
+        padding-top: 1%;
+    }
+    
+    .logo-new-size{
+        display: none;
+        width: 5%;
+        height: auto;
+    }
+    
+    .title-head{
+        color: #000000;
+        font-size: 2em;
+        margin-left: 1%;
+    }
+
+    .detail-position{
+        margin-left: -4px; 
+    }
+    
+    .btn-buy{
+        font-size: 0.7em;
+        margin: 0% auto; 
+        color: #ffffff;
+        font-weight: bold;
+        width: 30%;    
+        background-color: #51e542;
+    }
+    
+    .btn-detail{
+        font-size: 0.7em;
+        margin: 0% auto; 
+        color: #ffffff;
+        font-weight: bold;
+        width: 30%;    
+        background-color: #6e9fef;
+    }
+    
+    .btn-buy-small{
+        font-size: 0.5em;
+        margin: 0% auto; 
+        color: #ffffff;
+        font-weight: bold;
+        width: 30%;    
+        background-color: #51e542;
+    }
+    
+    .btn-detail-small{
+        font-size: 0.5em;
+        margin: 0% auto;
+        color: #ffffff;
+        font-weight: bold;
+        width: 30%;    
+        background-color: #6e9fef;
+    }
+
+    .card-size{
+        margin: 0% auto;
+        margin-bottom: 5%;
+    }
+    
+    .image-size{
+        margin: 0% auto;
+        width: 100px;
+        height: auto;
+    }
+
+    .description-small{
+        display: none;
+    }
+    
+    .text-title{
+        color: #000000;
+        font-size: 1.5em;
+        font-weight: bold;
+    }
+
+    .text{
+        color: #000000;
+    }
+    
+    .last-card{
+        display: block;
+    }
+
+    #last-image{
+        margin-left: 20%;
+    }
+}
+
+
+@media only screen and (min-device-width: 768px){
+    .produk{
+        width: 80%;
+        height: auto;
+        max-height: 100vh;
+    
+        background-color: #ffffff;
+    
+        margin: 0% auto;
+        margin-bottom: 100px;
+    
+        padding-bottom: 3%;
+        padding-top: 1%;
+    }
+    
+    .logo-new-size{
+        display: none;
+        width: 5%;
+        height: auto;
+    }
+    
+    .title-head{
+        color: #000000;
+        font-size: 2em;
+        margin-left: 1%;
+    }
+    
+    .btn-buy{
+        font-size: 0.7em;
+        margin: 0% auto; 
+        color: #ffffff;
+        font-weight: bold;
+        width: 30%;    
+        background-color: #51e542;
+    }
+    
+    .btn-detail{
+        font-size: 0.7em;
+        margin: 0% auto; 
+        color: #ffffff;
+        font-weight: bold;
+        width: 30%;    
+        background-color: #6e9fef;
+    }
+    
+    .card-size{
+        margin: 0% auto;
+        margin-bottom: 5%;
+    }
+    
+    .image-size{
+        margin: 0% auto;
+        width: 150px;
+        height: auto;
+    }
+    
+    .text-title{
+        color: #000000;
+        font-size: 1.5em;
+        font-weight: bold;
+    }
+    
+    .text{
+        color: #000000;
+    }
+    
+    .description{
+        display: block;    
+    }
+
+    .last-card{
+        display: block;
+    }
+
+    #last-image{
+        margin-left: 15%;
+    }
+}
+
+@media only screen and (min-device-width: 992px){
+    .produk{
+        width: 80%;
+        height: auto;
+        max-height: 100vh;
+    
+        background-color: #ffffff;
+    
+        margin: 0% auto;
+        margin-bottom: 100px;
+    
+        padding-bottom: 3%;
+        padding-top: 1%;
+    }
+    
+    .logo-new-size{
+        width: 5%;
+        height: auto;
+    }
+    
+    .title-head{
+        color: #000000;
+        font-size: 2em;
+        margin-left: 1%;
+    }
+    
+    .btn-buy{
+        margin: 0% auto; 
+        color: #ffffff;
+        font-weight: bold;
+        width: 30%;    
+        background-color: #51e542;
+    }
+    
+    .btn-detail{
+        margin: 0% auto; 
+        color: #ffffff;
+        font-weight: bold;
+        width: 30%;    
+        background-color: #6e9fef;
+    }
+    
+    .card-size{
+        margin: 0% auto;
+        margin-bottom: 5%;
+    }
+    
+    .image-size{
+        margin: 0% auto;
+        width: 200px;
+        height: auto;
+    }
+    
+    .text-title{
+        color: #000000;
+        font-size: 1.5em;
+        font-weight: bold;
+    }
+    
+    .text{
+        color: #000000;
+    }
+    
+    .description{
+        display: block;    
+    }
+
+    .last-card{
+        display: block;
+    }
+
+    #last-image{
+        margin-left: 15%;
+    }
+}
+
+@media only screen and (min-device-width: 1200px){
+    .produk{
+        width: 80%;
+        height: auto;
+        max-height: 100vh;
+    
+        background-color: #ffffff;
+    
+        margin: 0% auto;
+        margin-bottom: 100px;
+    
+        padding-bottom: 3%;
+        padding-top: 1%;
+    }
+    
+    .logo-new-size{
+        display: block;        
+        width: 5%;
+        height: auto;
+    }
+    
+    .title-head{
+        color: #000000;
+        font-size: 2em;
+    }
+    
+    .new-product-text{
+        margin-left: 7%;
+        float: left;
+        margin-top: -5%;
+    }
+
+    .btn-buy{
+        margin: 0% auto; 
+        color: #ffffff;
+        font-weight: bold;
+        width: 30%;    
+        background-color: #51e542;
+    }
+    
+    .btn-detail{
+        margin: 0% auto; 
+        color: #ffffff;
+        font-weight: bold;
+        width: 30%;    
+        background-color: #6e9fef;
+    }
+    
+    .card-size{
+        margin: 0% auto;
+        margin-bottom: 5%;
+    }
+    
+    .image-size{
+        margin: 0% auto;
+        width: 200px;
+        height: auto;
+    }
+    
+    .text-title{
+        color: #000000;
+        font-size: 1.5em;
+        font-weight: bold;
+    }
+    
+    .text{
+        color: #000000;
+    }
+    
+    .description{
+        display: block;    
+    }
+
+    .last-card{
+        display: block;
+    }
+
+    #last-image{
+        margin-left: 25%;
+    }
+}

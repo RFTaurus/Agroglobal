@@ -1,0 +1,501 @@
+
+
+@media only screen and (min-device-width: 360px){
+    .best-produk{
+        background-color: #87f779;
+        width: 80%;
+        min-height: 10%;
+        margin: 0% auto;
+        padding: 0.005% 0%;
+    
+        margin-top: 5%;
+        margin-bottom: -2%;
+    }
+    
+    .text-best-produk{
+        color: #ffffff;
+        font-weight: 500;
+        font-size: 1.5em;
+    }
+    
+    .produk{
+        width: 80%;
+        height: auto;
+        max-height: 100vh;
+    
+        background-color: #ffffff;
+    
+        margin: 0% auto;
+        margin-bottom: 5%;
+    
+        padding-bottom: 3%;
+        padding-top: 5%;
+    }
+    
+    .logo-best-size{
+        display: none;
+        width: 6%;
+        height: auto;
+        margin-top: -1%;
+    }
+    
+    .logo-right{
+        display: none;
+        width: 25%;
+        height: auto;
+        float: right;
+        margin-top: -15.5%; 
+    }
+    
+    .title-head{
+        color: #000000;
+        font-size: 2em;
+        margin-left: 1%;
+    }
+    
+    .btn-buy{
+        margin: 0% auto; 
+        color: #ffffff;
+        font-weight: bold;
+        width: 30%;    
+        background-color: #51e542;
+    }
+    
+    .btn-detail{
+        margin: 0% auto; 
+        color: #ffffff;
+        font-weight: bold;
+        width: 30%;    
+        background-color: #6e9fef;
+    }
+    
+    .card-size{
+        margin: 0% auto;
+        margin-bottom: 5%;
+        width: 100%;
+        height: auto;
+
+    }
+    
+    .image-size{
+        margin: 0% auto;
+        size: 50%;
+    }
+    
+    .text-title{
+        color: #000000;
+        font-size: 1.5em;
+        font-weight: bold;
+    }
+
+    .description{
+        display: none;
+    }
+
+    .text{
+        color: #000000;
+    }    
+
+    .last-card{
+        display: none;        
+    }
+}
+
+@media only screen and (min-device-width: 576px){
+    .best-produk{
+        background-color: #87f779;
+        width: 80%;
+        height: 100%;
+        min-height: 100%;
+        margin: 0% auto;
+        padding-top: 1%;
+    
+        margin-top: 7%;
+        padding-bottom: 5%;
+    }
+    
+    .text-best-produk{
+        color: #ffffff;
+        font-weight: 500;
+        font-size: 2em;
+    }
+    
+    .produk{
+        width: 80%;
+        height: auto;
+        max-height: 100vh;
+    
+        background-color: #ffffff;
+    
+        margin: 0% auto;
+        margin-bottom: 5%;
+    
+        padding-bottom: 3%;
+        padding-top: 1%;
+    }
+    
+    .logo-best-size{
+        display: none;
+        width: 6%;
+        height: auto;
+        margin-top: -1%;
+    }
+    
+    .logo-right{
+        display: block;
+        width: 25%;
+        height: auto;
+        float: right;
+        margin-top: -15.5%; 
+    }
+    
+    .title-head{
+        color: #000000;
+        font-size: 2em;
+        margin-left: 1%;
+    }
+    
+    .btn-buy{
+        margin: 0% auto; 
+        color: #ffffff;
+        font-weight: bold;
+        width: 30%;    
+        background-color: #51e542;
+    }
+    
+    .btn-detail{
+        margin: 0% auto; 
+        color: #ffffff;
+        font-weight: bold;
+        width: 30%;    
+        background-color: #6e9fef;
+    }
+    
+    .card-size{
+        margin: 0% auto;
+        margin-bottom: 5%;
+    }
+    
+    .image-size{
+        margin: 0% auto;
+        size: 50%;
+    }
+    
+    .text-title{
+        color: #000000;
+        font-size: 1.5em;
+        font-weight: bold;
+    }
+    
+    .description{
+        display: none;
+    }
+
+    .text{
+        color: #000000;
+    }    
+
+    .last-card{
+        display: block;        
+    }
+}
+
+@media only screen and (min-device-width: 768px){
+    .best-produk{
+        background-color: #87f779;
+        width: 80%;
+        height: 100%;
+        min-height: 100%;
+        margin: 0% auto;
+        padding-top: 1%;
+    
+        margin-top: 7%;
+        padding-bottom: 5%;
+    }
+    
+    .text-best-produk{
+        color: #ffffff;
+        font-weight: 500;
+        font-size: 2em;
+    }
+    
+    .produk{
+        width: 80%;
+        height: auto;
+        max-height: 100vh;
+    
+        background-color: #ffffff;
+    
+        margin: 0% auto;
+        margin-bottom: 5%;
+    
+        padding-bottom: 3%;
+        padding-top: 1%;
+    }
+    
+    .logo-best-size{
+        display: none;
+        width: 6%;
+        height: auto;
+        margin-top: -1%;
+    }
+    
+    .logo-right{
+        display: block;
+        width: 25%;
+        height: auto;
+        float: right;
+        margin-top: -15.5%; 
+    }
+    
+    .title-head{
+        color: #000000;
+        font-size: 2em;
+        margin-left: 1%;
+    }
+    
+    .btn-buy{
+        margin: 0% auto; 
+        color: #ffffff;
+        font-weight: bold;
+        width: 30%;    
+        background-color: #51e542;
+    }
+    
+    .btn-detail{
+        margin: 0% auto; 
+        color: #ffffff;
+        font-weight: bold;
+        width: 30%;    
+        background-color: #6e9fef;
+    }
+    
+    .card-size{
+        margin: 0% auto;
+        margin-bottom: 5%;
+    }
+    
+    .image-size{
+        margin: 0% auto;
+        size: 50%;
+    }
+    
+    .text-title{
+        color: #000000;
+        font-size: 1.5em;
+        font-weight: bold;
+    }
+    
+    .description{
+        display: block;
+    }
+
+    .text{
+        color: #000000;
+    }    
+
+    .last-card{
+        display: block;        
+    }
+}
+
+@media only screen and (min-device-width: 992px){
+    .best-produk{
+        background-color: #87f779;
+        width: 80%;
+        height: 100%;
+        min-height: 100%;
+        margin: 0% auto;
+        padding-top: 1%;
+    
+        margin-top: 7%;
+        padding-bottom: 5%;
+    }
+    
+    .text-best-produk{
+        color: #ffffff;
+        font-weight: 500;
+        font-size: 2em;
+    }
+    
+    .produk{
+        width: 80%;
+        height: auto;
+        max-height: 100vh;
+    
+        background-color: #ffffff;
+    
+        margin: 0% auto;
+        margin-bottom: 5%;
+    
+        padding-bottom: 3%;
+        padding-top: 1%;
+    }
+    
+    .logo-best-size{
+        display: none;
+        width: 6%;
+        height: auto;
+        margin-top: -1%;
+    }
+    
+    .logo-right{
+        display: block;
+        width: 25%;
+        height: auto;
+        float: right;
+        margin-top: -15.5%; 
+    }
+    
+    .title-head{
+        color: #000000;
+        font-size: 2em;
+        margin-left: 1%;
+    }
+    
+    .btn-buy{
+        margin: 0% auto; 
+        color: #ffffff;
+        font-weight: bold;
+        width: 30%;    
+        background-color: #51e542;
+    }
+    
+    .btn-detail{
+        margin: 0% auto; 
+        color: #ffffff;
+        font-weight: bold;
+        width: 30%;    
+        background-color: #6e9fef;
+    }
+    
+    .card-size{
+        margin: 0% auto;
+        margin-bottom: 5%;
+    }
+    
+    .image-size{
+        margin: 0% auto;
+        size: 50%;
+    }
+    
+    .text-title{
+        color: #000000;
+        font-size: 1.5em;
+        font-weight: bold;
+    }
+    
+    .description{
+        display: block;
+    }
+
+    .text{
+        color: #000000;
+    }    
+
+    .last-card{
+        display: block;        
+    }
+}
+
+@media only screen and (min-device-width: 1200px){
+    .best-produk{
+        background-color: #87f779;
+        width: 80%;
+        height: 100%;
+        min-height: 100%;
+        margin: 0% auto;
+        padding-top: 1%;
+    
+        margin-top: 7%;
+        padding-bottom: 5%;
+    }
+    
+    .text-best-produk{
+        color: #ffffff;
+        font-weight: 500;
+        font-size: 2em;
+        margin-left: 8%;
+        margin-top: -5%;
+        float: left;
+    }
+    
+    .produk{
+        width: 80%;
+        height: auto;
+        max-height: 100vh;
+    
+        background-color: #ffffff;
+    
+        margin: 0% auto;
+        margin-bottom: 5%;
+    
+        padding-bottom: 3%;
+        padding-top: 1%;
+    }
+    
+    .logo-best-size{
+        display: block;
+        width: 6%;
+        height: auto;
+        margin-top: -1%;
+    }
+    
+    .logo-right{
+        display: block;
+        width: 25%;
+        height: auto;
+        float: right;
+        margin-top: -15.5%; 
+    }
+    
+    .title-head{
+        color: #000000;
+        font-size: 2em;
+        margin-left: 1%;
+    }
+    
+    .btn-buy{
+        margin: 0% auto; 
+        color: #ffffff;
+        font-weight: bold;
+        width: 30%;    
+        background-color: #51e542;
+    }
+    
+    .btn-detail{
+        margin: 0% auto; 
+        color: #ffffff;
+        font-weight: bold;
+        width: 30%;    
+        background-color: #6e9fef;
+    }
+    
+    .card-size{
+        margin: 0% auto;
+        margin-bottom: 5%;
+    }
+    
+    .image-size{
+        margin: 0% auto;
+        size: 50%;
+    }
+    
+    .text-title{
+        color: #000000;
+        font-size: 1.5em;
+        font-weight: bold;
+    }
+ 
+    .description{
+        display: block;
+    }
+
+    .text{
+        color: #000000;
+    }   
+    
+    .last-card{
+        display: block;        
+    }
+}
