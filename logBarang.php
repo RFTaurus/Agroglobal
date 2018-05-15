@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel=icon type=image/png href="assets/bgIcon/logo-agroglobal.png">
 
-    <title>Daftar Akun | Global Solusindo</title>
+    <title>Log Pembelian | Global Solusindo</title>
 
     <!-- Bootstrap Start -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
@@ -22,7 +22,9 @@
   </head>
   <body>
 
-    <?php include 'pages/akun/daftar.php'; ?>
+    <?php include 'pages/home/navbar.php'; ?>
+    <?php include 'pages/akun/logPembelian.php'; ?>
+    <?php include 'pages/home/footer.php'; ?>
 
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->

@@ -1088,7 +1088,24 @@
         width: 30%;    
         background-color: #51e542;
     }
-    
+
+    .btn-fav{
+        margin: 0% auto;
+        margin-top: 2%; 
+        color: #ffffff;
+        font-weight: bold;
+        width: 30%;    
+        background-color: #fabd60;        
+    }
+
+    .btn-fav:link{ 
+        background-color: #fa6560;        
+    }
+
+    .btn-fav:focus{ 
+        background-color: #fa6560;        
+    }
+
     .btn-detail{
         margin: 0% auto; 
         color: #ffffff;
@@ -1146,6 +1163,11 @@
     }
 
     .btn-buy-detail{
+        width: 90%;
+        font-size: 1em;
+    }
+
+    .btn-fav-detail{
         width: 90%;
         font-size: 1em;
     }

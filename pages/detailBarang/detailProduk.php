@@ -142,6 +142,7 @@
                                 <p class="text-minimal">Stock : 20000 pcs</p>
                                 <hr class="garis-batas">
                                 <button class="btn btn-buy btn-buy-small btn-buy-detail" data-toggle="modal" data-target="#exampleModalBeli">Buy</button>  
+                                <button class="btn btn-fav btn-fav-small btn-buy-detail" href="#">Favorite</button>  
                                 <div class="jaminan">
                                     <div class="row line-margin">
                                         <div class="col-3 image-verified-display">
